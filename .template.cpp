@@ -1,6 +1,7 @@
 using namespace std;
 #include <iostream>
 #include <algorithm>
+#include <numeric>
 #define REP(i,n) for(int i=0; i<n; i++)
 #define SORT(A) sort(A.begin(),A.end())
 #define REV(A) reverse(A.begin(),A.end())
